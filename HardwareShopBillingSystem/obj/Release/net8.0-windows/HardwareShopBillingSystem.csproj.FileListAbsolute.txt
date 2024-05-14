@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\HardwareShopBillingSystem\HardwareShopBillingSystem\obj\Release\net8.0-windows\HardwareShopBillingSystem.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HardwareShopBillingSystem\HardwareShopBillingSystem\obj\Release\net8.0-windows\HardwareShopBillingSystem.Billing.resources
+C:\Users\USER\source\repos\HardwareShopBillingSystem\HardwareShopBillingSystem\obj\Release\net8.0-windows\HardwareShopBillingSystem.Categories.resources
+C:\Users\USER\source\repos\HardwareShopBillingSystem\HardwareShopBillingSystem\obj\Release\net8.0-windows\HardwareShopBillingSystem.Customers.resources
+C:\Users\USER\source\repos\HardwareShopBillingSystem\HardwareShopBillingSystem\obj\Release\net8.0-windows\HardwareShopBillingSystem.LogIn.resources
+C:\Users\USER\source\repos\HardwareShopBillingSystem\HardwareShopBillingSystem\obj\Release\net8.0-windows\HardwareShopBillingSystem.Products.resources
+C:\Users\USER\source\repos\HardwareShopBillingSystem\HardwareShopBillingSystem\obj\Release\net8.0-windows\HardwareShopBillingSystem.Properties.Resources.resources
+C:\Users\USER\source\repos\HardwareShopBillingSystem\HardwareShopBillingSystem\obj\Release\net8.0-windows\HardwareShopBillingSystem.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HardwareShopBillingSystem\HardwareShopBillingSystem\obj\Release\net8.0-windows\HardwareShopBillingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\HardwareShopBillingSystem\HardwareShopBillingSystem\obj\Release\net8.0-windows\HardwareShopBillingSystem.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\HardwareShopBillingSystem\HardwareShopBillingSystem\obj\Release\net8.0-windows\HardwareShopBillingSystem.AssemblyInfo.cs
+C:\Users\USER\source\repos\HardwareShopBillingSystem\HardwareShopBillingSystem\obj\Release\net8.0-windows\HardwareShopBillingSystem.csproj.CoreCompileInputs.cache

@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|c:\\users\\user\\source\\repos\\hardwareshopbillingsystem\\hardwareshopbillingsystem\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\hardwareshopbillingsystem\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\hardwareshopbillingsystem\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\hardwareshopbillingsystem\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|c:\\users\\user\\source\\repos\\hardwareshopbillingsystem\\hardwareshopbillingsystem\\billinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\billinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\hardwareshopbillingsystem\\billmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\billmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\hardwareshopbillingsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|c:\\users\\user\\source\\repos\\hardwareshopbillingsystem\\hardwareshopbillingsystem\\dashboardpannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\dashboardpannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|c:\\users\\user\\source\\repos\\hardwareshopbillingsystem\\hardwareshopbillingsystem\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|c:\\users\\user\\source\\repos\\hardwareshopbillingsystem\\hardwareshopbillingsystem\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\hardwareshopbillingsystem\\billmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\billmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|c:\\users\\user\\source\\repos\\hardwareshopbillingsystem\\hardwareshopbillingsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\hardwareshopbillingsystem\\billinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\billinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\hardwareshopbillingsystem\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|c:\\users\\user\\source\\repos\\hardwareshopbillingsystem\\hardwareshopbillingsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\hardwareshopbillingsystem\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\hardwareshopbillingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\hardwareshopbillingsystem\\billinglist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\billinglist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\hardwareshopbillingsystem\\hardwareshopbillingsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{12D70F1D-1CDF-4770-934D-1DA40B4A91A2}|HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj|solutionrelative:hardwareshopbillingsystem\\hardwareshopbillingsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\hardwareshopbillingsystem\\customers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hardwareshopbillingsystem\\customers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Billing.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\Billing.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Billing.cs",
+              "RelativeToolTip": "HardwareShopBillingSystem\\Billing.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAiwOwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:26:14.434Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Users.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\Users.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Users.cs [Design]",
+              "RelativeToolTip": "HardwareShopBillingSystem\\Users.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:00:37.59Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Products.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\Products.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Products.cs",
+              "RelativeToolTip": "HardwareShopBillingSystem\\Products.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAmwC8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:19:25.925Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Dashboard.cs [Design]",
+              "RelativeToolTip": "HardwareShopBillingSystem\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:31:55.233Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BillModal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\BillModal.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\BillModal.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\BillModal.cs [Design]",
+              "RelativeToolTip": "HardwareShopBillingSystem\\BillModal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:58:15.18Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BillingList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\BillingList.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\BillingList.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\BillingList.cs [Design]",
+              "RelativeToolTip": "HardwareShopBillingSystem\\BillingList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:45:40.636Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Billing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Billing.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\Billing.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Billing.cs [Design]",
+              "RelativeToolTip": "HardwareShopBillingSystem\\Billing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:25:13.877Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Users.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\Users.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Users.cs",
+              "RelativeToolTip": "HardwareShopBillingSystem\\Users.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAcwCoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:01:42.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\ProductList.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\ProductList.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\ProductList.cs [Design]",
+              "RelativeToolTip": "HardwareShopBillingSystem\\ProductList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:47:20.266Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardPannel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\DashboardPannel.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\DashboardPannel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\DashboardPannel.cs [Design]",
+              "RelativeToolTip": "HardwareShopBillingSystem\\DashboardPannel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:48:26.18Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Products.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Products.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\Products.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Products.cs [Design]",
+              "RelativeToolTip": "HardwareShopBillingSystem\\Products.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:45:16.887Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\DatabaseManager.cs",
+              "RelativeToolTip": "HardwareShopBillingSystem\\DatabaseManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:46:03.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\LogIn.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\LogIn.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\LogIn.cs [Design]",
+              "RelativeToolTip": "HardwareShopBillingSystem\\LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:43:16.447Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BillModal.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\BillModal.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\BillModal.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\BillModal.cs",
+              "RelativeToolTip": "HardwareShopBillingSystem\\BillModal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:09:00.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BillingList.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\BillingList.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\BillingList.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\BillingList.cs",
+              "RelativeToolTip": "HardwareShopBillingSystem\\BillingList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:44:29.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\LogIn.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\LogIn.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\LogIn.cs",
+              "RelativeToolTip": "HardwareShopBillingSystem\\LogIn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:28:52.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Program.cs",
+              "RelativeToolTip": "HardwareShopBillingSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:28:54.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BillingList.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\BillingList.Designer.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\BillingList.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\BillingList.Designer.cs",
+              "RelativeToolTip": "HardwareShopBillingSystem\\BillingList.Designer.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAvwKAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:39:46.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HardwareShopBillingSystem",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj",
+              "RelativeToolTip": "HardwareShopBillingSystem\\HardwareShopBillingSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T18:33:31.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Customers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Customers.Designer.cs",
+              "RelativeDocumentMoniker": "HardwareShopBillingSystem\\Customers.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HardwareShopBillingSystem\\HardwareShopBillingSystem\\Customers.Designer.cs",
+              "RelativeToolTip": "HardwareShopBillingSystem\\Customers.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:48:55.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "..\\SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-09T21:29:00.197Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
